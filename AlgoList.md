@@ -1,7 +1,3 @@
-It looks like you've listed some algorithms that were missing from the previous categorization. I'll update the relevant sections and integrate those missing algorithms into the list:
-
----
-
 ### **1. Sorting and Searching Algorithms**
 #### **Easy**
 - Bubble Sort
